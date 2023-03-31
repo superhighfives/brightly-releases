@@ -2,9 +2,9 @@
 
 WAV files (stereo, 44.1kHz, 16bit) of all the [Brightly](https://wearebrightly.com) releases.
 
-```
+<pre>
 📁
-├── **Beginnings & Endings (Album)**
+├── <strong>Beginnings & Endings (Album)</strong>
 │   ├── 01 Preflight Nerves.wav
 │   ├── 02 Fox.wav
 │   ├── 03 Sarah.wav
@@ -17,13 +17,13 @@ WAV files (stereo, 44.1kHz, 16bit) of all the [Brightly](https://wearebrightly.c
 │   ├── 10 Hood.wav
 │   ├── 11 I Like Tea.wav
 │   └── cover.jpg
-├── **I Will Never Let You Go (Single)**
+├── <strong>I Will Never Let You Go (Single)</strong>
 │   ├── 01 I Will Never Let You Go.wav
 │   └── cover.jpg
-├── **Keep Me Close (Single)**
+├── <strong>Keep Me Close (Single)</strong>
 │   ├── 01 Keep Me Close.wav
 │   └── cover.jpg
-├── **Oh, Infinity (Album)**
+├── <strong>Oh, Infinity (Album)</strong>
 │   ├── 01 True.wav
 │   ├── 02 I Can't Change Now.wav
 │   ├── 03 Sister.wav
@@ -33,7 +33,7 @@ WAV files (stereo, 44.1kHz, 16bit) of all the [Brightly](https://wearebrightly.c
 │   ├── 07 I Dreamt We Fell Asleep At The Piano.wav
 │   ├── 08 At The Bottom Of The Lake.wav
 │   └── cover.jpg
-├── **One For Sorrow, Two For Joy (Album)**
+├── <strong>One For Sorrow, Two For Joy (Album)</strong>
 │   ├── 01 Prologue.wav
 │   ├── 02 Rugby.wav
 │   ├── 03 Lost.wav
@@ -47,34 +47,34 @@ WAV files (stereo, 44.1kHz, 16bit) of all the [Brightly](https://wearebrightly.c
 │   ├── 11 Oceans.wav
 │   ├── 12 Plans.wav
 │   └── cover.jpg
-├── **Preflight Nerves (Single)**
+├── <strong>Preflight Nerves (Single)</strong>
 │   ├── 01 Preflight Nerves.wav
 │   └── cover.jpg
-├── **Rugby (Single)**
+├── <strong>Rugby (Single)</strong>
 │   ├── 01 Rugby.wav
 │   └── cover.jpg
-├── **Sarah (Single)**
+├── <strong>Sarah (Single)</strong>
 │   ├── 01 Sarah.wav
 │   ├── 02 Doubt.wav
 │   └── cover.jpg
-├── **The Greylings (EP)**
+├── <strong>The Greylings (EP)</strong>
 │   ├── 01 This Sinking Ship.wav
 │   ├── 02 World War.wav
 │   ├── 03 All Figured Out.wav
 │   ├── 04 All Of The Birds.wav
 │   ├── 05 Doubt (Acoustic).wav
 │   └── cover.jpg
-├── **True (Single)**
+├── <strong>True (Single)</strong>
 │   ├── 01 True.wav
 │   └── cover.jpg
-├── **We Were In Tokyo & Then We Woke Up (Single)**
+├── <strong>We Were In Tokyo & Then We Woke Up (Single)</strong>
 │   ├── 01 Tokyo.wav
 │   ├── 02 & Then We Woke Up.wav
 │   └── cover.jpg
-└── **World War (Single)**
+├── <strong>World War (Single)</strong>
 │   ├── 01 World War.wav
 │   └── cover.jpg
 └── README.md
 
 13 directories, 59 files
-```
+</pre>
